@@ -10,10 +10,12 @@ python3 main.py
 
 # APP Project
 
-'''sh
+Para ejecutar la App que calcula poblaciones seguir las instrucciones abajo en la terminal
+
+```sh
 git clone
 cd app
 source app-env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
-'''
+```
